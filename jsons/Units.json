@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Civilian",
+    "unitType": "Civilian",
+    "cost": 45,
+    "movement": 4,
+    "strength": 10,
+    "uniques": ["Can upgrade to [Worker]", "Can upgrade to [Settler]", "Can upgrade to [Archer]", "Can upgrade to [Warrior]", "Can upgrade to [Scout]",
+      "Cannot move <when at war>", "[1] population [in this city] <by consuming this unit>"],
+    "promotions": ["Scouting I", "Scouting II", "Medic", "Heal Instantly"]
+  }
+]
